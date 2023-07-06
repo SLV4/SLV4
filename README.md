@@ -4,10 +4,12 @@
 - 🌱 Atualmente, estou ampliando meus conhecimentos em Python, SQL, e ferramentas de visualização de dados como Power BI
 
 ##
-
-  <div>
-  <a href="https://github.com/SLV4">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andrey&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div>
+  
+<a href="https://github.com/SLV4">
+  
+<img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLV4&layout=compact&langs_count=20&theme=dark"/>
+<img  width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=SLV4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
